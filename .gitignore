@@ -1,34 +1,11 @@
-# General
+*.o
+*.so
 *.log
+*.txt
 *.zip
-*.bin
-*.deb
-*.tar.gz
-*.swp
-*.bak
-
-# IDEs & Editors
-.vscode/
-.idea/
-*.code-workspace
-
-# Vivado, Vitis
-*.jou
-*.log
-*.str
-*.backup.jou
-*.backup.log
-*.webtalk
-webtalk/
-.sim/
-.hw/
-.cache/
-.hw_*
-.sim_*
-
-# Python
+build/
+enclave.signed.so
+secure_rng
+app
 __pycache__/
-*.pyc
-
-# Builds
-/build/
+*.swp
