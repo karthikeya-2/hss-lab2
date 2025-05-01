@@ -1,10 +1,9 @@
 *.o
 *.so
 *.log
-*.txt
 *.zip
-enclave.signed.so
+*.swp
+*.signed.so
 secure_rng
 app
-*.swp
 __pycache__/

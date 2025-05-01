@@ -1,0 +1,11 @@
+[+] Enclave loaded. Running Digital Wallet with OCALLs...
+Current Balance: 1000
+Current Balance: 1200
+Pay 100: Success
+Pay 2000: Failed (Insufficient Funds)
+Current Balance: 1100
+
+[Transaction Log]
+Deposit: 200
+Pay: 100
+<empty>
